@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 """remote_edit module setup"""
 
 setup(
-    name='title',
+    name='remote_edit',
     version='1.0.0',
     license='MIT',
     author='Shibani Mahapatra',
