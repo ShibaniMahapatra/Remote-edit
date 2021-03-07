@@ -1,0 +1,3 @@
+flaskcode==0.0.7
+pyngrok==4.2.2
+click>=5.1
